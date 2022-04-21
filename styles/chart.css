@@ -1,0 +1,8 @@
+.chart__tooltip-header,
+.chart__tooltip-value {
+  @apply text-sm;
+}
+
+.chart__tooltip-header {
+  @apply font-bold;
+}
